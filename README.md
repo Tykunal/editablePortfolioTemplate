@@ -1,8 +1,9 @@
-# React-portfolio
+# editablePortfolioTemplate
 
-A boilrplate react portfolio to showcase your projects and work
+A react based Portflio template helps you showcase your projects with ease.
+Feel free to use and modify as per your wish.
 
 
-Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
+
 
 ![](test.gif)
